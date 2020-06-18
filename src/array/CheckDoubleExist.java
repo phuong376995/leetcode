@@ -2,7 +2,7 @@ package array;
 
 /**
  * leetcode: https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/
- * @author phuong.nguyenvan@vti.com.vn
+ * @author nguyenvanphuong6995@gmail.com
  * @version 1.0
  * @since 6/17/20
  */
