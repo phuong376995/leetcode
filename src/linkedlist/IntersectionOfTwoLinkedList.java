@@ -9,18 +9,6 @@ package linkedlist;
 
 public class IntersectionOfTwoLinkedList {
 
-    private class ListNode {
-
-        private int val;
-
-        private ListNode next;
-
-        ListNode(int val) {
-            this.val = val;
-            next = null;
-        }
-    }
-
     private boolean isCommonNode(ListNode nodeA, ListNode nodeB) {
         while (nodeB != null) {
             if (nodeB == nodeA) {

@@ -14,16 +14,6 @@ public class CycleLinkedList {
 
     }
 
-    class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
-
     /**
      *  Given a linked list, determine if has a cycle in it.
      * @param head
