@@ -1,7 +1,7 @@
 package linkedlist;
 
 /**
- * @author phuong.nguyenvan@vti.com.vn
+ * @author nguyenvanphuong6995@gmail.com
  * @version 1.0
  * @since 6/29/20
  */
